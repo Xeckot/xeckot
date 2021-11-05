@@ -5,7 +5,7 @@
 Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgAI</a><img src="https://media.giphy.com/media/c4ucBxUdcYf0Np1oPo/giphy.gif" width="30"></em>
 -->
 
-![](https://komarev.com/ghpvc/?username=buseyarentekin&color=ff69b4&style=plastic?labelColor=7D898B)
+![](https://komarev.com/ghpvc/?username=xeckot&color=dc143c&style=plastic?labelColor=7D898B)
 
 [![Linkedin Badge](https://img.shields.io/badge/-buseyarentekin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buseyarentekin/)](https://www.linkedin.com/in/buseyarentekin/)
 [![Medium Badge](https://img.shields.io/badge/-@BuseYarenTekin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
