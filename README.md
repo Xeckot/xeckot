@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mustafa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<em>Master of Science, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<em>MSa Student, Management Information Systems at <a href="https://erbakan.edu.tr">University of Necmettin Erbakan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgAI</a><img src="https://media.giphy.com/media/c4ucBxUdcYf0Np1oPo/giphy.gif" width="30"></em>
 
 ![](https://komarev.com/ghpvc/?username=buseyarentekin&color=ff69b4&style=plastic?labelColor=7D898B)
