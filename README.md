@@ -29,8 +29,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
 - -->
-- 📫 How to reach me: **mustafadeveci42070@gmail.com**
-- [![Mail Badge](https://img.shields.io/badge/mustafadeveci42070@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mustafadeveci42070@gmail.com)](mailto:mustafadeveci42070@gmail.com)
+- 📫 How to reach me: **[![Mail Badge](https://img.shields.io/badge/mustafadeveci42070@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mustafadeveci42070@gmail.com)](mailto:mustafadeveci42070@gmail.com)**
 
 <!--
 <p align="left">
