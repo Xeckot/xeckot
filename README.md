@@ -20,13 +20,18 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=9B3w16yy_Vg&t=423s)
 -->
 <!-- YOUTUBE-VIDEO-LIST:END -->
+<!--
 ![](https://img.shields.io/badge/%20Projects-12-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-27-AC6EFF?labelColor=7D898B)
+-->
+<!--
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
-- 📫 How to reach me: **buseyarentekin@outlook.com**
+- -->
+- 📫 How to reach me: **mustafadeveci42070@gmail.com**
 
+<!--
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras" width="60" height="60"/>
@@ -36,5 +41,6 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="60" height="60"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=buseyaren&show_icons=true" alt="buseyaren" /></p>
+-->
 
 
