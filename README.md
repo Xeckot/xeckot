@@ -8,12 +8,17 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 ![](https://komarev.com/ghpvc/?username=xeckot&color=blue&style=plastic?labelColor=dc143c)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mustafadeveci-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafadeveci42070/)](https://www.linkedin.com/in/mustafadeveci42070/)
+<!--
 [![Medium Badge](https://img.shields.io/badge/-@BuseYarenTekin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
 [![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
 [![Kaggle Badge](https://img.shields.io/badge/buseyarentekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/buseyarentekin)](https://kaggle.com/buseyarentekin)
+-->
+<!--
 ### Latest YouTube Video 📢
 <!-- YOUTUBE-VIDEO-LIST:START -->
+<!--
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=9B3w16yy_Vg&t=423s)
+-->
 <!-- YOUTUBE-VIDEO-LIST:END -->
 ![](https://img.shields.io/badge/%20Projects-12-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
