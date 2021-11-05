@@ -42,5 +42,24 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=buseyaren&show_icons=true" alt="buseyaren" /></p>
 -->
+<!--
+Mertin kisim
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+
+# Merhaba, ben Mert Cobanov! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+
+[![](https://img.shields.io/twitter/follow/xeckot?style=social)](https://www.twitter.com/xeckot)
+[![](https://img.shields.io/github/followers/xeckot?style=social)](https://www.github.com/xeckot)
+
+
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/xeckot)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/xeckot)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafadeveci42070/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xeckot)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dvcmstf)
+[![Mail Badge](https://img.shields.io/badge/mustafadeveci42070@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mustafadeveci42070@gmail.com)](mailto:mustafadeveci42070@gmail.com)
+-->
+
 
 
