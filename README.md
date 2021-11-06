@@ -11,7 +11,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![Medium Badge](https://img.shields.io/badge/-@MustafaDeveci-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@xeckot)
 [![Twitter Badge](https://img.shields.io/badge/@MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xeckot)](https://twitter.com/xeckot)
 [![Kaggle Badge](https://img.shields.io/badge/MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/xeckot)](https://kaggle.com/xeckot)
-[![HuggingFace Badge](https://img.shields.io/badge/MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=huggingface&logoColor=white&link=https://huggingface.co/xeckot)](https://huggingface.co/xeckot)
+[![HuggingFace Badge](https://img.shields.io/badge/MustafaDeveci-1ca0f1?style=flat&labelColor=yellow&logo=huggingface&logoColor=white&link=https://huggingface.co/xeckot)](https://huggingface.co/xeckot)
 
 <!--
 ### Latest YouTube Video 📢
