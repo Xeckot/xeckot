@@ -33,7 +33,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeckot&show_icons=true&locale=en&layout=compact" alt="xeckot" /><p>
 
-<p>&nbsp;<img align='center' src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true"><p>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true">
 
 <!--
 <p align="left">
