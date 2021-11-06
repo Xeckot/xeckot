@@ -8,11 +8,10 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 ![](https://komarev.com/ghpvc/?username=xeckot&color=blue&style=plastic?labelColor=dc143c)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mustafadeveci-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafadeveci42070/)](https://www.linkedin.com/in/mustafadeveci42070/)
-
 [![Medium Badge](https://img.shields.io/badge/-@MustafaDeveci-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@xeckot)
 [![Twitter Badge](https://img.shields.io/badge/@MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xeckot)](https://twitter.com/xeckot)
 [![Kaggle Badge](https://img.shields.io/badge/MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/xeckot)](https://kaggle.com/xeckot)
--->
+
 <!--
 ### Latest YouTube Video 📢
 <!-- YOUTUBE-VIDEO-LIST:START -->
