@@ -30,10 +30,10 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
 - -->
 - 📫 How to reach me: **[![Mail Badge](https://img.shields.io/badge/mustafadeveci42070@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mustafadeveci42070@gmail.com)](mailto:mustafadeveci42070@gmail.com)**
-
+<!--
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeckot&show_icons=true&locale=en&layout=compact" alt="xeckot" /><p>
 <p><img align='center' src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true"><p>
- 
+ -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeckot&show_icons=true&locale=en&layout=compact" alt="xeckot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true&locale=en" alt="xeckot" /></p>
