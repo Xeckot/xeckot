@@ -42,7 +42,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="60" height="60"/>
    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="60" height="60"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckotshow_icons=true" alt="xeckot" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true" alt="xeckot" /></p>
 -->
 
 <!--
