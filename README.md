@@ -31,6 +31,9 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 - -->
 - 📫 How to reach me: **[![Mail Badge](https://img.shields.io/badge/mustafadeveci42070@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mustafadeveci42070@gmail.com)](mailto:mustafadeveci42070@gmail.com)**
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckotshow_icons=true" alt="xeckot" /></p>
+
 <!--
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
