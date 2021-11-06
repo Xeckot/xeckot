@@ -34,10 +34,6 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeckot&show_icons=true&locale=en&layout=compact" alt="xeckot" /><p>
 <p><img align='center' src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true"><p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeckot&show_icons=true&locale=en&layout=compact" alt="xeckot" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true&locale=en" alt="xeckot" /></p>
-
 <!--
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
