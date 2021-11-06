@@ -8,10 +8,10 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 ![](https://komarev.com/ghpvc/?username=xeckot&color=blue&style=plastic?labelColor=dc143c)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mustafadeveci-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafadeveci42070/)](https://www.linkedin.com/in/mustafadeveci42070/)
-<!--
-[![Medium Badge](https://img.shields.io/badge/-@BuseYarenTekin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
-[![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
-[![Kaggle Badge](https://img.shields.io/badge/buseyarentekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/buseyarentekin)](https://kaggle.com/buseyarentekin)
+
+[![Medium Badge](https://img.shields.io/badge/-@MustafaDeveci-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@xeckot)
+[![Twitter Badge](https://img.shields.io/badge/@MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xeckot)](https://twitter.com/xeckot)
+[![Kaggle Badge](https://img.shields.io/badge/MustafaDeveci-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/xeckot)](https://kaggle.com/xeckot)
 -->
 <!--
 ### Latest YouTube Video 📢
@@ -40,14 +40,17 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="60" height="60"/>
    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="60" height="60"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=buseyaren&show_icons=true" alt="buseyaren" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xeckotshow_icons=true" alt="xeckot" /></p>
 -->
-<!--
-Mertin kisim
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+<!--
+
+Mertin kisim
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=xeckot&show_icons=true">
+
+# Merhaba, ben Mustafa! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeckot" alt="xeckot" /> </p>
 
 [![](https://img.shields.io/twitter/follow/xeckot?style=social)](https://www.twitter.com/xeckot)
 [![](https://img.shields.io/github/followers/xeckot?style=social)](https://www.github.com/xeckot)
