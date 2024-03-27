@@ -1,3 +1,4 @@
+<!--
 <h2> Hi, I'm Mustafa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <em>M.A. Student, Management Information Systems at <a href="https://erbakan.edu.tr">University of Necmettin Erbakan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
